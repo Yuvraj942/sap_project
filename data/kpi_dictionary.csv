@@ -1,0 +1,8 @@
+kpi_name,definition,formula,unit,owner
+PR_to_PO_Conversion_Days,Time taken to convert PR into PO,po_date-pr_date,days,Procurement
+PO_to_GR_Lead_Time_Days,Time between PO issue and goods receipt,gr_date-po_date,days,Stores
+GR_to_Invoice_Lag_Days,Delay between goods receipt and invoice posting,invoice_date-gr_date,days,Accounts_Payable
+Invoice_to_Payment_Days,Time from invoice posting to payment,payment_date-invoice_date,days,Finance
+Vendor_On_Time_Rate,Share of receipts delivered on time,sum(on_time_flag)/count(*),percentage,Procurement
+Vendor_Spend,Total order value by vendor,sum(po_value),currency,Procurement
+Invoice_Variance_Percent,Deviation between PO value and invoice amount,(variance_amount/invoice_amount)*100,percentage,Finance
