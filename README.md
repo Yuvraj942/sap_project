@@ -1,4 +1,4 @@
-# SAP Capstone Project - Data Analytics Engineer
+# SAP Capstone Project 
 
 ## Project Title
 Integrated Procure-to-Pay (P2P) Analytics and Financial Visibility for a Fictitious Enterprise in SAP
