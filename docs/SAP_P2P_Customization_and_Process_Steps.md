@@ -1,10 +1,5 @@
 # SAP P2P Customization and Process Steps
 
-## Candidate Details
-- Name: Yuvraj Singh
-- Roll Number: 23051883
-- Batch/Program: 2023-27 BTech CSE | SAP Course Program: 2026 SAP Data Analytics Engineer
-
 ## 1. Objective
 To design and validate an end-to-end Procure-to-Pay process in SAP and prepare analytics checkpoints for Data Analytics Engineer reporting.
 

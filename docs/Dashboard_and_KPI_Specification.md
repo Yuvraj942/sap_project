@@ -1,10 +1,5 @@
 # Dashboard and KPI Specification
 
-## Candidate Details
-- Name: Yuvraj Singh
-- Roll Number: 23051883
-- Batch/Program: 2023-27 BTech CSE | SAP Course Program: 2026 SAP Data Analytics Engineer
-
 ## 1. Dashboard Objective
 To provide procurement and finance stakeholders a single view of P2P cycle health, vendor performance, and liability movement.
 

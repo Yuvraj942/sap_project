@@ -1,10 +1,5 @@
 # Test Cases and Validation
 
-## Candidate Details
-- Name: Yuvraj Singh
-- Roll Number: 23051883
-- Batch/Program: 2023-27 BTech CSE | SAP Course Program: 2026 SAP Data Analytics Engineer
-
 ## Test Case Table
 
 | TC_ID | Scenario | Input Condition | Expected Result | Status |
